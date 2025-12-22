@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.odd-numbered,
+.odd-numbered-cooler {
+   background-color:lightpink; 
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.odd-numbered-cooler {
+   font-size: 24px; 
+}
+
+#blue {
+   color: blue;
+   font-size: 36px; 
+}
+
+#lightgreen {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
